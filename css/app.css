@@ -1,0 +1,45 @@
+body{
+  background: url(../img/fgast.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.main{
+  background-color: rgba(161, 150, 190, 0.8);
+  border-top:  1px solid white;
+  padding-top: 10px;
+}
+
+.header{
+  color: white;
+  border-right: 1px solid white;
+  margin-bottom: 20px;
+}
+
+.titulo{
+  color: #ff0000;
+}
+
+.historial{
+  color: #d0006f;
+}
+
+.publicar{
+  margin-top: -15px;
+}
+
+#comentario{
+  margin-top: 60px;
+}
+
+.comentarios{
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 80%;
+  margin-top: 10px;
+}
+
+#avatar{
+  width: 40px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
