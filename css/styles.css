@@ -1,0 +1,52 @@
+body{
+  background: #2196f3;
+}
+
+.imgredonda{
+  border-radius: 20px;
+}
+
+.navegar{
+  width: 100%;
+}
+
+h3{
+  color: white;
+}
+
+.social{
+  position: fixed;
+  left: 100px;
+}
+
+.social-img{
+  width: 60px;
+}
+
+#turismo{
+  width: 100%;
+}
+
+#parrafo{
+  text-align: justify;
+}
+
+#acuario{
+  float: left;
+  width: 200px;
+  margin-right: 15px;
+}
+
+@media screen and (max-width:420px) {
+  h3{
+    font-size: 150%;
+  }
+
+  
+}
+
+@media screen and (max-width:1200px) {
+  .social{
+    display: none;
+  }
+}
